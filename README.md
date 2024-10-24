@@ -48,7 +48,7 @@ The application is currently under active development. We are committed to enhan
 - Nasiphi Ndlala
 
 ## **Disclaimer**
-This repository contains a generalized version of the original project. Sensetive details have been omitted for privacy.
+This repository contains a generalized version of the original project that is in a private repository. Sensetive details have been omitted for privacy.
 
 ## **Contact**
 For inquiries or more information about the project, please contact:
