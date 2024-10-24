@@ -52,8 +52,8 @@ This repository contains a generalized version of the original project. Sensetiv
 
 ## **Contact**
 For inquiries or more information about the project, please contact:
-- [Khumo Mogotlhe](khumomogotlhe7@gmail.com) or connect on [LinkedIn](linkedin.com/in/khumo-mogotlhe).
 - [Reitumetse Mochaaoa](mochaoar@gmail.com) or connect on [LinkedIn](linkedin.com/in/reitumetse-mochaoa).
+- [Khumo Mogotlhe](khumomogotlhe7@gmail.com) or connect on [LinkedIn](linkedin.com/in/khumo-mogotlhe).
 - [Johnny Ilanga](ilangajohnny18@gmail.com) or connect on [LinkedIn](linkedin.com/in/johnny-ilanga).
 - [Siza Magwentshu](smagwentshu99@gmail.com) or connect on [LinkedIn](linkedin.com/in/siza-magwentshu).
 - [Nasiphi Ndlala](nndlala023@student.wethinkcode.co.za) or connect on [LinkedIn](linkedin.com/in/nasiphi-ndlala-0a98062b3).
